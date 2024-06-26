@@ -11,12 +11,6 @@ To access admin page, add url /admin. Example http://localhost/rental_tekkom/adm
 ![ss](images/ss5.png)
 ![ss](images/ss6.png)
 
-## Admin Account
-|   Level   |     Username      | Password |
-|:---------:|:-----------------:|---------:|
-| Admin     |  admin            | admin    |
-| User      |  ghalib@gmail.com  | ghalib    |
-
 ## Sistem Requirement
 - Database MySQL
 - XAMPP / PHP 5.6
